@@ -4,7 +4,7 @@
 
 Every tree, bird, squirrel, slug and mushroom around you is a creature waiting to be caught. Wilder GO turns the real world into the game: photograph something wild, flick the ball, and hold your breath while the Ranger decides what you have found.
 
-![Wilder GO onboarding](images/onboarding.webp)
+![Wilder GO onboarding](onboarding.webp)
 
 ## How it plays
 
