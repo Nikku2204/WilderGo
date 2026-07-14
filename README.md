@@ -27,7 +27,7 @@ Most nature apps run a classifier: photo in, label out. Wilder GO runs a natural
 
 ## Play it
 
-[Live Link](https://claude.ai/public/artifacts/8aee4b02-9417-4fa0-9d3e-762cbc8c9926)
+[Live Link](https://claude.ai/public/artifacts/750db223-072b-4a87-8f9b-03c4547f7eaf)
 
 Wilder GO is an AI-powered artifact, so playing requires signing in with a Claude account, and usage counts against your own plan. Works in laptop and phone browsers.
 
