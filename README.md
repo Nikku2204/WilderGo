@@ -20,11 +20,11 @@ Most nature apps run a classifier: photo in, label out. Wilder GO runs a natural
 
 | | |
 |---|---|
-| ![Explore home](images/explore.webp) | ![The catch](images/catch.webp) |
+| ![Explore home](explore.webp) | ![The catch](catch.webp) |
 | The Explore home: Ranger XP, today's quest, nearby discoveries and the camera | Flick the ball while the focus circle shrinks for a timing bonus |
-| ![A card](images/card.webp) | ![Achievements](images/awards.webp) |
+| ![A card](card.webp) | ![Achievements](awards.webp) |
 | Every catch becomes a card: nickname, Latin name, flavour and abilities | Achievements pay Nature Love, with progress bars and medallion collections |
-| ![Journey](images/journey.webp) | ![Ranger profile](images/ranger.webp) |
+| ![Journey](journey.webp) | ![Ranger profile](ranger.webp) |
 | The week's trail, and every sighting written into the journal | Your Ranger: stats, equipped badges and the road to the next rank |
 
 ## Features
